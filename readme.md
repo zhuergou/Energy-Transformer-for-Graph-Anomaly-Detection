@@ -23,3 +23,14 @@ Run main_without_subsample.py to train the whole graph.  e.g.,
 
 Run main_subsample.py with subsampling mode. e.g.,
 	python main_subsample.py --dataset tfinance --train_ratio 0.4 --hid_dim 128 --order 2 --homo 1 --epoch 100 --run 3 --n_layers 1 --num_heads 3 --seed 10 --layer_norm True --residual True --ffn 2
+	
+# Code & data accompanying the paper "Energy Transformer".
+
+if you find this code useful, please cite:
+
+@article{hoover2023energy,
+  title={Energy Transformer},
+  author={Hoover, Benjamin and Liang, Yuchen and Pham, Bao and Panda, Rameswar and Strobelt, Hendrik and Chau, Duen Horng and Zaki, Mohammed J and Krotov, Dmitry},
+  journal={arXiv preprint arXiv:2302.07253},
+  year={2023}
+}
