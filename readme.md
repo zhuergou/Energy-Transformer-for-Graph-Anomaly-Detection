@@ -37,3 +37,7 @@ if you find this code useful, please cite:
 }
 ```
 
+Part of code from 
+[Rethinking Graph Neural Networks for Anomaly Detection](https://proceedings.mlr.press/v162/tang22b.html)  
+*Jianheng Tang, Jiajin Li, Ziqi Gao, Jia Li; ICML 2022*
+
