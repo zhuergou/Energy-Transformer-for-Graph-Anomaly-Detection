@@ -28,9 +28,12 @@ Run main_subsample.py with subsampling mode. e.g.,
 
 if you find this code useful, please cite:
 
+```
 @article{hoover2023energy,
   title={Energy Transformer},
   author={Hoover, Benjamin and Liang, Yuchen and Pham, Bao and Panda, Rameswar and Strobelt, Hendrik and Chau, Duen Horng and Zaki, Mohammed J and Krotov, Dmitry},
   journal={arXiv preprint arXiv:2302.07253},
   year={2023}
 }
+```
+
